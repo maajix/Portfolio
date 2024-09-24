@@ -1,0 +1,8 @@
+/* Add your custom styles */
+.project-card img {
+  width: 12rem; /* Adjust the width as needed */
+  height: 12rem; /* Adjust the height as needed */
+  object-fit: cover; /* Ensures the image covers the container without stretching */
+  border-radius: 0.5rem; /* Optional: rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: shadow */
+}
